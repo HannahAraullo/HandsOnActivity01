@@ -19,7 +19,7 @@ namespace OrganizationProfile
         private long _ContactNo;
         public long _StudentNo;
 
-//public string studNum;
+
         public frmRegistration()
         {
             InitializeComponent();
